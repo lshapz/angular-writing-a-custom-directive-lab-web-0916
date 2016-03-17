@@ -11,9 +11,9 @@
 
 ## Instructions
 
-Let's create some awesome tabs.
+Let's create some awesome tabs that will look something like [this](http://jsfiddle.net/toddmotto/4comjcdm/embedded/result/). 
 
-First of all we need a parent `tabs` component. We can make this either a directive or component - it's up to you (if you want to be even more awesome, use controller!).
+First of all we need a parent `tabs` component. We can make this either a directive or component - it's up to you (if you want to be even more awesome, use component!).
 
 This tabs component (or directive) should have an array of tabs in its controller, and a variable with the ID of the tab that's visible.
 
